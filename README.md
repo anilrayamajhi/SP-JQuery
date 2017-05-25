@@ -1,14 +1,19 @@
 PDF TO HTML
 -
 
-Responsive page.
-
-Some text were extracted as image due to missing fonts.
+Responsive Single page.
 
 Run SASS
-		
+
 		sass --watch assets/dev/scss/style.scss:assets/prod/css/style.css
-		
+
 
 <br><br><br>
+
+Tech Used:
+* HTML/SCSS
+* JQuery
+* Bootstrap
+* Owl
+
 --Anil Rayamjhi
