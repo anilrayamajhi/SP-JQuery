@@ -26,7 +26,6 @@
   background: url("../../images/peak.png") 40% 37%/cover;
   height: 57em;
   position: relative;
-  z-index: -1;
   margin-top: 79px; }
 
 .custom-set {

@@ -11,9 +11,12 @@ Run SASS
 <br><br><br>
 
 Tech Used:
-* HTML/SCSS
-* JQuery
-* Bootstrap
-* Owl
+> HTML/SCSS
+> 
+> JQuery
+>
+> Bootstrap
+>
+>  Owl
 
 --Anil Rayamjhi
